@@ -8,17 +8,12 @@
 
 Utilizamos as seguintes estatísticas para a detecção:
 
-Tamanho médio de palavra: Média simples do número de caracteres por palavra.
-
-Relação Type-Token: Número de palavras diferentes utilizadas em um texto divididas pelo total de palavras.
-
-Razão Hapax Legomana: Número de palavras utilizadas uma única vez dividido pelo número total de palavras.
-
-Tamanho médio de sentença: Média simples do número de caracteres por sentença.
-
-Complexidade de sentença: Média simples do número de frases por sentença.
-
-Tamanho médio de frase: Média simples do número de caracteres por frase.
+Tamanho médio de palavra: Média simples do número de caracteres por palavra; 
+Relação Type-Token: Número de palavras diferentes utilizadas em um texto divididas pelo total de palavras;
+Razão Hapax Legomana: Número de palavras utilizadas uma única vez dividido pelo número total de palavras;
+Tamanho médio de sentença: Média simples do número de caracteres por sentença;
+Complexidade de sentença: Média simples do número de frases por sentença;
+Tamanho médio de frase: Média simples do número de caracteres por frase;
 
 A partir da assinatura conhecida o programa deverá receber diversos textos e calcular os valores dos diferentes traços linguísticos desses textos para compará-los com a assinatura dada.
 Após calcular esses valores para cada texto, é necessário compará-los com a assinatura fornecida. O grau de similaridade entre dois textos, a e b, é dado pela fórmula:
