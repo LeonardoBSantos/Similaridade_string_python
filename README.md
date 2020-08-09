@@ -7,6 +7,7 @@
 # Traços linguísticos
 
 Utilizamos as seguintes estatísticas para a detecção:
+
 Tamanho médio de palavra: Média simples do número de caracteres por palavra.
 Relação Type-Token: Número de palavras diferentes utilizadas em um texto divididas pelo total de palavras.
 Razão Hapax Legomana: Número de palavras utilizadas uma única vez dividido pelo número total de palavras.
