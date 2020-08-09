@@ -1,0 +1,1 @@
+# similaridade_string_python
