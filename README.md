@@ -17,7 +17,7 @@ Tamanho médio de frase: Média simples do número de caracteres por frase.
 A partir da assinatura conhecida o programa deverá receber diversos textos e calcular os valores dos diferentes traços linguísticos desses textos para compará-los com a assinatura dada.
 Após calcular esses valores para cada texto, é necessário compará-los com a assinatura fornecida. O grau de similaridade entre dois textos, a e b, é dado pela fórmula:
 
-Sab = ∑6i=1||fi,a−fi,b||6
+Sab = ∑6i=1||fi,a−fi,b||/6
 
 OBS: Quanto mais similares a e b forem, menor Sab será.
 
