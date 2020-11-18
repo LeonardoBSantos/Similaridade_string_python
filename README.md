@@ -2,7 +2,7 @@
 
 # Similaridades entre textos
 
- Diferentes pessoas possuem diferentes estilos de escrita; por exemplo, algumas pessoas preferem sentenças mais curtas, outras preferem sentenças mais longas. Utilizando diversas estatísticas do texto, é possível identificar aspectos que funcionam como uma “assinatura” do seu autor e, portanto, é possível detectar se dois textos dados foram escritos por uma mesma pessoa. Ou seja, essa “assinatura” pode ser utilizada para detecção de plágio, evidência forense ou etc.
+Utilizando diversas estatísticas do texto, é possível identificar aspectos que funcionam como uma “assinatura” do seu autor e, portanto, é possível detectar se dois textos dados foram escritos por uma mesma pessoa, ou seja, essa “assinatura” pode ser utilizada para detecção de plágio.
 
 # Traços linguísticos
 
@@ -49,3 +49,6 @@ Digite o texto 3 (aperte enter para sair):NOSSA alegria diante dum sistema metaf
 Digite o texto 4 (aperte enter para sair):
 O Autor do texto 2 está cometendo plágio
 ```
+# Desenvolvimento 
+
+Para executar o código basta utilizamos o Spyder 4.0.1 (Python 3.7), disponível no Anaconda Navigator, e abrirmos o arquivo "Detecção de similaridade entre textos 2.3.py". Executamos o programa e imputamos as informações necessárias no console.  
